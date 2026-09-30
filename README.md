@@ -1,4 +1,9 @@
-## Hi there 👋
+#Visagan Sureshkumar
+1.Maths
+1.Statistics
+1.Lifestyle 
+_Let's get started
+
 
 <!--
 **Visagan1/Visagan1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
