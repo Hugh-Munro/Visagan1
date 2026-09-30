@@ -1,7 +1,7 @@
 ## Visagan Sureshkumar
 I studied my bachelor's degree in Mathematics and Economics at the University of Copenhagen.
 
-I am now studying statistics at Imperial College London.
+I am now studying statistics at [Imperial College London](https://www.imperial.ac.uk/study/courses/postgraduate-taught/statistics/).
 
 I like:
 1. Mathematical Statistics
