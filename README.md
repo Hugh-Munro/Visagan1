@@ -1,4 +1,4 @@
-## Visagan Sureshkumar I studied
+## Visagan Sureshkumar
 I studied my bachelor's degree in Mathematics and Economics at the University of Copenhagen.
 
 Now I am studying statistics at Imperial College London.
